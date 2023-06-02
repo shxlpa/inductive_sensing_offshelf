@@ -1,7 +1,7 @@
 # inductive_sensing_offshelf
-## Code for NI DAQ &amp; ESCON driver phase of inductive sensing project. NOT the repo for the custom boards we're designing.
+## (1) unfinished py for NI DAQ &amp; ESCON driver phase of inductive sensing project. NOT the repo for the custom boards we're designing.
 
-## Also contains the code for the data processing (format is: date_experiment-number.
+## (2) Data processing processing code & data from each experiment (format is: date_experiment-number.
 
 Part of this experiment consists of asking what our reasonable range of operation is. 
 Can we calculate the inductance of our electromagnet? If so, does it change in the present of the magnetic leg implant? 
